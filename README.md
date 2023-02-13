@@ -1,4 +1,4 @@
-[YouTube Course]: https://www.youtube.com/watch?v=GHTA143_b-s
+[YouTube Course](https://www.youtube.com/watch?v=GHTA143_b-s)
 
 ## Description
 
